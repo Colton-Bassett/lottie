@@ -1,11 +1,32 @@
-# React App to Learn Lotties and Redux
+# "Lottie" Prototype
 
-This project was bootstrapped with
+Lottie is a project designed to learn
+[Lottie Animations](https://lottiefiles.com/), an innovative animation tool for
+seamless web and mobile integration. This project also dives into
+[Redux](https://redux.js.org/), a tool for managing app data and state with
+React. And we explore UI design principles inspired by
+[Figma](https://www.figma.com/), a popular collaboration tool trusted by
+designers worldwide.
+
+Lottie library: https://gamote.github.io/lottie-react/
+
+Visibility Sensor: https://www.npmjs.com/package/react-visibility-sensor
+
+This project was created with
 [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Goals
 
-In the project directory, you can run:
+-   Gain proficiency in creating and using Lottie Animations to enhance the user
+    experience of web and mobile applications.
+
+-   Learn Redux to effectively manage application state and streamline data flow
+    within projects.
+
+-   Explore and implement UI design principles inspired by the Figma's design
+    team, aiming to create beautiful and user-friendly interfaces.
+
+## Available Scripts
 
 ### `yarn start`
 
@@ -60,27 +81,10 @@ You can learn more in the
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## SETUP
+## Setup
 
-Create project /w template yarn create react-app my-app --template typescript
+Create project using a template (Create-react-app, etc)
 
-Add MaterialUI yarn add @material-ui/core
+Add CSS Library (MaterialUI)
 
-Add MaterialUI Types??
-
-Add Lottie-react yarn install lottie-react
-
-Add Prettier yarn add --dev --exact prettier echo {}> .prettierrc.json create
-.prettierignore file add .prettierrc (prettier configuration file)
-
-Add React Router yarn add react-router
-
-Add Jest
-
-Add Enzyme
-
-Create Github Repo / Add / Commit / Push
-
-Add AWS / Amplify
-
-Add GCP
+Add Lottie-react
