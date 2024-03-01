@@ -2,9 +2,7 @@
 
 Lottie is a project designed to learn
 [Lottie Animations](https://lottiefiles.com/), an innovative animation tool for
-seamless web and mobile integration. This project also dives into
-[Redux](https://redux.js.org/), a tool for managing app data and state with
-React. And we explore UI design principles inspired by
+seamless web and mobile integration. This project also explores UI design principles inspired by
 [Figma](https://www.figma.com/), a popular collaboration tool trusted by
 designers worldwide.
 
@@ -19,9 +17,6 @@ This project was created with
 
 -   Gain proficiency in creating and using Lottie Animations to enhance the user
     experience of web and mobile applications.
-
--   Learn Redux to effectively manage application state and streamline data flow
-    within projects.
 
 -   Explore and implement UI design principles inspired by the Figma's design
     team, aiming to create beautiful and user-friendly interfaces.
@@ -80,11 +75,3 @@ You can learn more in the
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Setup
-
-Create project using a template (Create-react-app, etc)
-
-Add CSS Library (MaterialUI)
-
-Add Lottie-react
